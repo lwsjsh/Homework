@@ -16,9 +16,9 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 ### Links
 
-[Link to the deployed website]
+[Link to the deployed website] https://lwsjsh.github.io/Horiseon/
 
-[Link to the code repository]
+[Link to the code repository] https://github.com/lwsjsh/Horiseon.git
 
 ## Installation
 
