@@ -22,7 +22,7 @@ This project is a code refactor for the Horiseon website homepage.   The purpose
 
 ## Installation
 
-Upload index.html, license.txt, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
+Upload index.html, and assets folder to the deployed webserver.  The assets folder contains images and CSS files.
 
 The deployed website linked above was deployed using GitHub Pages.
 
